@@ -135,3 +135,62 @@ Check and print whether it is a multiple of 5 or not.
 
 Input three numbers.
 Print the largest of the three.
+
+# Day 3: Loops & Patterns — Python
+
+Welcome to Day 3 of your AI Engineering Roadmap! Today, we focus on mastering loops and creating patterns in Python.
+
+## 🎯 Learning Objectives
+
+Understand how to use while loops to repeat tasks based on conditions
+
+Learn to use for loops to iterate over sequences
+
+Practice automating repetitive tasks
+
+Work with loops to solve problems and create patterns
+
+Handle collections (lists, strings, etc.) using loops
+
+**📚 Topics Covered**
+
+1. while loops and their syntax
+2. for loops with range() and sequences
+3. Automating repetitive tasks
+4. Reducing code duplication with loops
+
+**Solving problems using loops**
+
+# 📝 Project Overview
+
+This repository includes practice programs to reinforce loop concepts:
+
+1. **Print Numbers**
+   Prints numbers from 1 to 10 using a loop.
+
+2. **Even Numbers**
+   Prints all even numbers from 1 to a user-defined number n.
+
+3. **Sum of Numbers**
+   Calculates and prints the sum of numbers from 1 to n.
+
+4. **Factorial Calculator**
+   Computes the factorial of a given number n.
+
+5. **Multiplication Table**
+   Prints the multiplication table for a number n (e.g., 5 × 1 to 5 × 10).
+
+6. **Divisible by 3 and 5**
+   Prints all numbers between 1 and 100 divisible by both 3 and 5.
+
+7. **Reverse a Number**
+   Reverses a given number (e.g., 123 → 321).
+
+8. **Sum of Digits**
+   Calculates the sum of digits of a given number.
+
+9. **Count Digits**
+   Counts the number of digits in a given number.
+
+10. **Palindrome Check**
+    Checks if a number is a palindrome (reads the same forwards and backwards).
